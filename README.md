@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h4rdikjain
+- 👋 Hi, I’m Hardik Jain
 - 👀 I’m interested in learning new technologies and constantly making myself industry ready
 - 🌱 I’m currently learning c++ , react
 - 💞️ I’m looking to collaborate on python projects
